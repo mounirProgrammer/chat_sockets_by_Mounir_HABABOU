@@ -1,0 +1,3 @@
+
+ decrypted(plain text) = the server : 
+ decrypted(decimal)    = 9222775547428277181173620292128
